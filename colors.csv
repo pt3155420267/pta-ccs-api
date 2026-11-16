@@ -1,0 +1,16 @@
+# 题目配色文件:每行 label,颜色名,RGB(如 #1E88E5);# 开头为注释
+# 修改后重启本程序生效(仅重建本地事件日志,不会重新请求 PTA)
+label,color,rgb
+A,Red,#E53935
+B,Orange,#FB8C00
+C,Yellow,#FDD835
+D,Lime,#7CB342
+E,Green,#43A047
+F,Teal,#00897B
+G,Cyan,#00ACC1
+H,Blue,#1E88E5
+I,Indigo,#3949AB
+J,Purple,#8E24AA
+K,Magenta,#D81B60
+L,Brown,#8D6E63
+M,Gray,#546E7A
